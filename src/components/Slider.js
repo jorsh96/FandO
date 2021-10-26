@@ -30,7 +30,7 @@ const Slider = ({ info }) => {
             </p>
 
             <a
-              href="https://meet.google.com/hzf-gsco-hjo"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
             >
