@@ -55,7 +55,7 @@ const Slider = ({ info }) => {
               rel="noopener noreferrer"
               href="https://calendar.google.com/calendar/u/0/r/eventedit?dates=20211106T100000Z/20211106T170000Z&details=Kofoworola+and+Femi%27s+Wedding&location=Ikeja,+Lagos&text=Kofo+and+Femi"
             >
-              <button className="bg-transparent border-yellow-gold hover:bg-yellow-500 text-white font-semibold hover:text-white py-2 px-4 border-2 border-yellow-500 hover:border-transparent rounded-lg md:ml-0 mt-2 md:mt-4 w-full sm:w-auto md:ml-4 lg:ml-4">
+              <button className="bg-transparent border-yellow-gold hover:bg-yellow-500 text-white font-semibold hover:text-white py-2 px-4 border-2 border-yellow-500 hover:border-transparent rounded-lg md:ml-0 mt-2 md:mt-4 w-full sm:w-auto md:ml-3 lg:ml-3">
                 Add to calendar
               </button>
             </a>
